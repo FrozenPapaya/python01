@@ -7,3 +7,5 @@ print("hello", "\n")
 print("zmena6")
 
 print("zmena7")
+
+print("zmena8")
