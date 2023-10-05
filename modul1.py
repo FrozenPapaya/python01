@@ -9,3 +9,5 @@ print("zmena6")
 print("zmena7")
 
 print("zmena8")
+
+print("zmena9")
